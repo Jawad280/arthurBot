@@ -1,1 +1,3 @@
-# arthurBot
+# Arthur Morgan Telebot
+
+Ever wanted to speak with Arthur Morgan from Red Dead Redemption 2 ? Well this simple telebot should do just that...
